@@ -1,0 +1,15 @@
+C:\Users\HOME\Source\Repos\ProgrammingGDD_CPS_2024\OOPBasics\bin\Debug\net8.0\OOPBasics.exe
+C:\Users\HOME\Source\Repos\ProgrammingGDD_CPS_2024\OOPBasics\bin\Debug\net8.0\OOPBasics.deps.json
+C:\Users\HOME\Source\Repos\ProgrammingGDD_CPS_2024\OOPBasics\bin\Debug\net8.0\OOPBasics.runtimeconfig.json
+C:\Users\HOME\Source\Repos\ProgrammingGDD_CPS_2024\OOPBasics\bin\Debug\net8.0\OOPBasics.dll
+C:\Users\HOME\Source\Repos\ProgrammingGDD_CPS_2024\OOPBasics\bin\Debug\net8.0\OOPBasics.pdb
+C:\Users\HOME\Source\Repos\ProgrammingGDD_CPS_2024\OOPBasics\obj\Debug\net8.0\OOPBasics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HOME\Source\Repos\ProgrammingGDD_CPS_2024\OOPBasics\obj\Debug\net8.0\OOPBasics.AssemblyInfoInputs.cache
+C:\Users\HOME\Source\Repos\ProgrammingGDD_CPS_2024\OOPBasics\obj\Debug\net8.0\OOPBasics.AssemblyInfo.cs
+C:\Users\HOME\Source\Repos\ProgrammingGDD_CPS_2024\OOPBasics\obj\Debug\net8.0\OOPBasics.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Source\Repos\ProgrammingGDD_CPS_2024\OOPBasics\obj\Debug\net8.0\OOPBasics.sourcelink.json
+C:\Users\HOME\Source\Repos\ProgrammingGDD_CPS_2024\OOPBasics\obj\Debug\net8.0\OOPBasics.dll
+C:\Users\HOME\Source\Repos\ProgrammingGDD_CPS_2024\OOPBasics\obj\Debug\net8.0\refint\OOPBasics.dll
+C:\Users\HOME\Source\Repos\ProgrammingGDD_CPS_2024\OOPBasics\obj\Debug\net8.0\OOPBasics.pdb
+C:\Users\HOME\Source\Repos\ProgrammingGDD_CPS_2024\OOPBasics\obj\Debug\net8.0\OOPBasics.genruntimeconfig.cache
+C:\Users\HOME\Source\Repos\ProgrammingGDD_CPS_2024\OOPBasics\obj\Debug\net8.0\ref\OOPBasics.dll
